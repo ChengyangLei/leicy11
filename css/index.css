@@ -1,5 +1,6 @@
 .first-div-cls{
-  fond-color:red;
+  font-color:red;
+  background-color:green;
   height:100px;
   width:100px;
 }
